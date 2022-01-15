@@ -1,2 +1,3 @@
-# GitHub-Guide
-How i got friend with GitHub
+# Way i Learned GitHub
+
+Things i have learnt, Problems and Errors i have faced
