@@ -26,6 +26,9 @@ Things i have learnt, Problems and Errors i have faced
     git branch -m master main
     ```
     ```
+    git pull origin main --rebase
+    ```
+    ```
     git push origin main
     ```
 3. check everythings upto date with 'git status' and you are all set.
