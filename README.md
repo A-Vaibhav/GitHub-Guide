@@ -1,8 +1,6 @@
-# Way i Learned GitHub
+# Way i am learning GitHub, Problems and Errors faced and solved
 
-Things i have learnt, Problems and Errors i have faced
-
-# Scenario :- Create local project folder, now wanted to add the project dir to github.
+# Scenario 1 :- Create local project folder, now wanted to add the project dir to github.
 
 1. Create repository in Github and copy the ssh or http link from clone secion.
 2. Go in local Project directory, open Terminal and run following command :-
